@@ -1,4 +1,16 @@
+
+
+
 # CodAlpha--Frontend-Developement-Task-1
+Name:Vallepi.Tejaswi
+
+Company:CodAlpha
+
+ID:CA/DFI/134962
+
+Duration:10th june 2026 to 10th july 2026
+
+Domain:Fronted-Developement
 # Responsive Image Gallery
 
 ## Overview
