@@ -1,6 +1,10 @@
 
 
 
+
+
+
+
 # CodAlpha--Frontend-Developement-Task-1
 Name:Vallepi.Tejaswi
 
@@ -95,7 +99,10 @@ Responsive-Image-Gallery/
 Through this project, I learned:
 
 * Responsive web design principles.
-* CSS Grid and Flexbox layouts.
+* CSS Grid and Flex
+
+
+box layouts.
 * JavaScript DOM manipulation.
 * Event listeners and keyboard events.
 * Image filtering techniques.
@@ -114,3 +121,5 @@ Through this project, I learned:
 ## Conclusion
 
 The Responsive Image Gallery is a modern and interactive web application that demonstrates essential front-end development skills. It combines responsive design, image filtering, lightbox viewing, and keyboard navigation to create a smooth and engaging user experience.
+## Output:
+https://github.com/user-attachments/assets/9490b931-35a9-4aad-8bcf-6f656c24b933
